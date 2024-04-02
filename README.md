@@ -1,4 +1,3 @@
-```markdown
 # IMDb Web Scraper
 
 This is a Python script to scrape movie details from IMDb based on a specific genre or keyword. It retrieves information such as title, release year, IMDb rating, directors, cast, and plot summary for each movie.
@@ -76,4 +75,3 @@ This is a Python script to scrape movie details from IMDb based on a specific ge
 - Logging is included to provide information on the scraping process.
 
 Feel free to modify and expand upon this script as needed!
-```
