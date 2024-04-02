@@ -8,7 +8,7 @@ This is a Python script to scrape movie details from IMDb based on a specific ge
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/imdb-web-scraper.git
+   git clone https://github.com/Developer-DewPool/imdb-web-scraper
    ```
 
 2. Navigate to the project directory:
